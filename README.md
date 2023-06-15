@@ -2,7 +2,7 @@
 
 <h1 align="center">Course: Migrating your repository to GitHub </h1>
 
-This repository powers the Learning Lab course [_Migrating your repository to GitHub_](https://lab.github.com/githubtraining/migrating-your-repository-to-github). 
+This repository powers the Learning Lab course [_Migrating your repository to GitHub_](https://github.com/githubtraining/migrating-your-repository/blob/main/outline.md). 
 
 Every Learning Lab course is made up of:
 - a [course repository](https://github.com/githubtraining/migrating-your-repository), and
